@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f9d840b7-d785-487b-af3f-5be008cf3c21",
+  "export_job_id": "e1d5e44d-2025-4985-9494-d79b7a0034ec",
   "id_short": 284807,
-  "published_at": "2026-04-12T07:20:41Z",
+  "published_at": "2026-04-19T19:29:35Z",
   "repo_name": "all-restaurants-in-springfield-missouri-us-sample-284807",
   "sample_asset_name": "beamstation_284807_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/284807/beamstation_284807_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "916e110d1c4ab8f384c96ae709aee77fd2f7b425bb3c67dc827739d7671284a7",
-  "sample_size_bytes": 313415,
-  "total_records": 818
+  "sample_records": 79,
+  "sample_sha256": "04af11d37b428ed602a71e24734b39895eefc5f76f2ac74170adc2599f726b51",
+  "sample_size_bytes": 260440,
+  "total_records": 797
 }
